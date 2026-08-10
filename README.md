@@ -10,12 +10,14 @@
 | [0189-rotate-array](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0414-third-maximum-number](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0414-third-maximum-number) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1389-create-target-array-in-the-given-order) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/dev-attri5/LeetCode-Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Hash Table
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0041-first-missing-positive) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Math
 |  |
 | ------- |
@@ -31,6 +33,7 @@
 |  |
 | ------- |
 | [0414-third-maximum-number](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0414-third-maximum-number) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/dev-attri5/LeetCode-Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Enumeration
 |  |
@@ -40,4 +43,8 @@
 |  |
 | ------- |
 | [1389-create-target-array-in-the-given-order](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1389-create-target-array-in-the-given-order) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
