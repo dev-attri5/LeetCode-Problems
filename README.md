@@ -17,6 +17,7 @@
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1389-create-target-array-in-the-given-order) |
+| [1572-matrix-diagonal-sum](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1572-matrix-diagonal-sum) |
 | [1929-concatenation-of-array](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1929-concatenation-of-array) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/dev-attri5/LeetCode-Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Hash Table
@@ -79,4 +80,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
+## Matrix
+|  |
+| ------- |
+| [1572-matrix-diagonal-sum](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
