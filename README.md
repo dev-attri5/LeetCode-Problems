@@ -22,6 +22,7 @@
 | [1470-shuffle-the-array](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1572-matrix-diagonal-sum](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1572-matrix-diagonal-sum) |
+| [1732-find-the-highest-altitude](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1732-find-the-highest-altitude) |
 | [1929-concatenation-of-array](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1929-concatenation-of-array) |
 | [2540-minimum-common-value](https://github.com/dev-attri5/LeetCode-Problems/tree/master/2540-minimum-common-value) |
 | [2733-neither-minimum-nor-maximum](https://github.com/dev-attri5/LeetCode-Problems/tree/master/2733-neither-minimum-nor-maximum) |
@@ -83,6 +84,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0238-product-of-array-except-self) |
 | [1480-running-sum-of-1d-array](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1480-running-sum-of-1d-array) |
+| [1732-find-the-highest-altitude](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1732-find-the-highest-altitude) |
 ## Divide and Conquer
 |  |
 | ------- |
