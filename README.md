@@ -35,6 +35,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0041-first-missing-positive) |
+| [0202-happy-number](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0202-happy-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/dev-attri5/LeetCode-Problems/tree/master/2085-count-common-words-with-one-occurrence) |
@@ -47,6 +48,7 @@
 | [0066-plus-one](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0202-happy-number) |
 | [0633-sum-of-square-numbers](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0633-sum-of-square-numbers) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -58,6 +60,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0202-happy-number) |
 | [0633-sum-of-square-numbers](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0633-sum-of-square-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [2540-minimum-common-value](https://github.com/dev-attri5/LeetCode-Problems/tree/master/2540-minimum-common-value) |
@@ -139,4 +142,8 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0069-sqrtx) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
