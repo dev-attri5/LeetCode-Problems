@@ -117,4 +117,8 @@
 | [1108-defanging-an-ip-address](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1108-defanging-an-ip-address) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/dev-attri5/LeetCode-Problems/tree/master/2243-calculate-digit-sum-of-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2595-number-of-even-and-odd-bits](https://github.com/dev-attri5/LeetCode-Problems/tree/master/2595-number-of-even-and-odd-bits) |
 <!---LeetCode Topics End-->
