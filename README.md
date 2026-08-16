@@ -24,6 +24,7 @@
 | [1572-matrix-diagonal-sum](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1572-matrix-diagonal-sum) |
 | [1732-find-the-highest-altitude](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1732-find-the-highest-altitude) |
 | [1929-concatenation-of-array](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1929-concatenation-of-array) |
+| [2094-finding-3-digit-even-numbers](https://github.com/dev-attri5/LeetCode-Problems/tree/master/2094-finding-3-digit-even-numbers) |
 | [2540-minimum-common-value](https://github.com/dev-attri5/LeetCode-Problems/tree/master/2540-minimum-common-value) |
 | [2733-neither-minimum-nor-maximum](https://github.com/dev-attri5/LeetCode-Problems/tree/master/2733-neither-minimum-nor-maximum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/dev-attri5/LeetCode-Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -35,6 +36,7 @@
 | [0041-first-missing-positive](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0041-first-missing-positive) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2094-finding-3-digit-even-numbers](https://github.com/dev-attri5/LeetCode-Problems/tree/master/2094-finding-3-digit-even-numbers) |
 | [2540-minimum-common-value](https://github.com/dev-attri5/LeetCode-Problems/tree/master/2540-minimum-common-value) |
 ## Math
 |  |
@@ -63,11 +65,13 @@
 | [0414-third-maximum-number](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0414-third-maximum-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2094-finding-3-digit-even-numbers](https://github.com/dev-attri5/LeetCode-Problems/tree/master/2094-finding-3-digit-even-numbers) |
 | [2733-neither-minimum-nor-maximum](https://github.com/dev-attri5/LeetCode-Problems/tree/master/2733-neither-minimum-nor-maximum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/dev-attri5/LeetCode-Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Enumeration
 |  |
 | ------- |
+| [2094-finding-3-digit-even-numbers](https://github.com/dev-attri5/LeetCode-Problems/tree/master/2094-finding-3-digit-even-numbers) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/dev-attri5/LeetCode-Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Simulation
 |  |
@@ -121,4 +125,8 @@
 |  |
 | ------- |
 | [2595-number-of-even-and-odd-bits](https://github.com/dev-attri5/LeetCode-Problems/tree/master/2595-number-of-even-and-odd-bits) |
+## Recursion
+|  |
+| ------- |
+| [2094-finding-3-digit-even-numbers](https://github.com/dev-attri5/LeetCode-Problems/tree/master/2094-finding-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
