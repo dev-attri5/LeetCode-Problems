@@ -49,6 +49,7 @@
 | [0069-sqrtx](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0202-happy-number) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0633-sum-of-square-numbers](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0633-sum-of-square-numbers) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -128,6 +129,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0013-roman-to-integer) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1108-defanging-an-ip-address](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1108-defanging-an-ip-address) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/dev-attri5/LeetCode-Problems/tree/master/2085-count-common-words-with-one-occurrence) |
@@ -135,6 +137,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [2595-number-of-even-and-odd-bits](https://github.com/dev-attri5/LeetCode-Problems/tree/master/2595-number-of-even-and-odd-bits) |
 ## Recursion
 |  |
