@@ -45,6 +45,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0633-sum-of-square-numbers](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0633-sum-of-square-numbers) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
@@ -115,6 +116,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0069-sqrtx) |
 | [0633-sum-of-square-numbers](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0633-sum-of-square-numbers) |
 | [2540-minimum-common-value](https://github.com/dev-attri5/LeetCode-Problems/tree/master/2540-minimum-common-value) |
 ## String
@@ -133,4 +135,8 @@
 |  |
 | ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/dev-attri5/LeetCode-Problems/tree/master/2094-finding-3-digit-even-numbers) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
