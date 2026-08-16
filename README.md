@@ -6,6 +6,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0041-first-missing-positive) |
 | [0066-plus-one](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0189-rotate-array) |
@@ -132,6 +133,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0069-sqrtx) |
 | [0633-sum-of-square-numbers](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0633-sum-of-square-numbers) |
 | [2540-minimum-common-value](https://github.com/dev-attri5/LeetCode-Problems/tree/master/2540-minimum-common-value) |
