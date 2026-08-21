@@ -14,6 +14,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0189-rotate-array](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0238-product-of-array-except-self) |
 | [0414-third-maximum-number](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0485-max-consecutive-ones) |
@@ -50,6 +51,7 @@
 | [0041-first-missing-positive](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0041-first-missing-positive) |
 | [0128-longest-consecutive-sequence](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0202-happy-number](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0645-set-mismatch](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -96,6 +98,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0645-set-mismatch) |
