@@ -16,6 +16,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0238-product-of-array-except-self) |
 | [0414-third-maximum-number](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0414-third-maximum-number) |
+| [0485-max-consecutive-ones](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0977-squares-of-a-sorted-array](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
