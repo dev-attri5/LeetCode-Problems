@@ -84,6 +84,7 @@
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [2235-add-two-integers](https://github.com/dev-attri5/LeetCode-Problems/tree/master/2235-add-two-integers) |
 | [2427-number-of-common-factors](https://github.com/dev-attri5/LeetCode-Problems/tree/master/2427-number-of-common-factors) |
 | [2806-account-balance-after-rounded-purchase](https://github.com/dev-attri5/LeetCode-Problems/tree/master/2806-account-balance-after-rounded-purchase) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/dev-attri5/LeetCode-Problems/tree/master/3232-find-if-digit-game-can-be-won) |
