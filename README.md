@@ -43,6 +43,7 @@
 | [1929-concatenation-of-array](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1929-concatenation-of-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/dev-attri5/LeetCode-Problems/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2094-finding-3-digit-even-numbers](https://github.com/dev-attri5/LeetCode-Problems/tree/master/2094-finding-3-digit-even-numbers) |
+| [2109-adding-spaces-to-a-string](https://github.com/dev-attri5/LeetCode-Problems/tree/master/2109-adding-spaces-to-a-string) |
 | [2540-minimum-common-value](https://github.com/dev-attri5/LeetCode-Problems/tree/master/2540-minimum-common-value) |
 | [2733-neither-minimum-nor-maximum](https://github.com/dev-attri5/LeetCode-Problems/tree/master/2733-neither-minimum-nor-maximum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/dev-attri5/LeetCode-Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -100,6 +101,7 @@
 | [0633-sum-of-square-numbers](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0633-sum-of-square-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [2109-adding-spaces-to-a-string](https://github.com/dev-attri5/LeetCode-Problems/tree/master/2109-adding-spaces-to-a-string) |
 | [2540-minimum-common-value](https://github.com/dev-attri5/LeetCode-Problems/tree/master/2540-minimum-common-value) |
 ## Sorting
 |  |
@@ -127,6 +129,7 @@
 | [0415-add-strings](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0415-add-strings) |
 | [1389-create-target-array-in-the-given-order](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1389-create-target-array-in-the-given-order) |
 | [1929-concatenation-of-array](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1929-concatenation-of-array) |
+| [2109-adding-spaces-to-a-string](https://github.com/dev-attri5/LeetCode-Problems/tree/master/2109-adding-spaces-to-a-string) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/dev-attri5/LeetCode-Problems/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Counting Sort
 |  |
@@ -194,6 +197,7 @@
 | [1832-check-if-the-sentence-is-pangram](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/dev-attri5/LeetCode-Problems/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/dev-attri5/LeetCode-Problems/tree/master/2085-count-common-words-with-one-occurrence) |
+| [2109-adding-spaces-to-a-string](https://github.com/dev-attri5/LeetCode-Problems/tree/master/2109-adding-spaces-to-a-string) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/dev-attri5/LeetCode-Problems/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/dev-attri5/LeetCode-Problems/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 ## Bit Manipulation
