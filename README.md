@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -95,6 +96,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0189-rotate-array) |
@@ -144,6 +146,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0011-container-with-most-water) |
 | [0605-can-place-flowers](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0605-can-place-flowers) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 ## Prefix Sum
