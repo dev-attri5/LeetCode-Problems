@@ -205,6 +205,7 @@
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/dev-attri5/LeetCode-Problems/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/dev-attri5/LeetCode-Problems/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/dev-attri5/LeetCode-Problems/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
+| [3110-score-of-a-string](https://github.com/dev-attri5/LeetCode-Problems/tree/master/3110-score-of-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
