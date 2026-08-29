@@ -208,6 +208,7 @@
 | [2085-count-common-words-with-one-occurrence](https://github.com/dev-attri5/LeetCode-Problems/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2109-adding-spaces-to-a-string](https://github.com/dev-attri5/LeetCode-Problems/tree/master/2109-adding-spaces-to-a-string) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/dev-attri5/LeetCode-Problems/tree/master/2124-check-if-all-as-appears-before-all-bs) |
+| [2129-capitalize-the-title](https://github.com/dev-attri5/LeetCode-Problems/tree/master/2129-capitalize-the-title) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/dev-attri5/LeetCode-Problems/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/dev-attri5/LeetCode-Problems/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/dev-attri5/LeetCode-Problems/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
