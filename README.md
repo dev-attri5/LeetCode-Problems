@@ -207,6 +207,7 @@
 | [2109-adding-spaces-to-a-string](https://github.com/dev-attri5/LeetCode-Problems/tree/master/2109-adding-spaces-to-a-string) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/dev-attri5/LeetCode-Problems/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/dev-attri5/LeetCode-Problems/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/dev-attri5/LeetCode-Problems/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/dev-attri5/LeetCode-Problems/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 | [3110-score-of-a-string](https://github.com/dev-attri5/LeetCode-Problems/tree/master/3110-score-of-a-string) |
 ## Bit Manipulation
@@ -262,6 +263,7 @@
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/dev-attri5/LeetCode-Problems/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Queue
 |  |
 | ------- |
