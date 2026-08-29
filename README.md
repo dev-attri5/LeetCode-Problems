@@ -70,6 +70,7 @@
 | [2085-count-common-words-with-one-occurrence](https://github.com/dev-attri5/LeetCode-Problems/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2094-finding-3-digit-even-numbers](https://github.com/dev-attri5/LeetCode-Problems/tree/master/2094-finding-3-digit-even-numbers) |
 | [2540-minimum-common-value](https://github.com/dev-attri5/LeetCode-Problems/tree/master/2540-minimum-common-value) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/dev-attri5/LeetCode-Problems/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/dev-attri5/LeetCode-Problems/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Math
 |  |
@@ -216,6 +217,7 @@
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/dev-attri5/LeetCode-Problems/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/dev-attri5/LeetCode-Problems/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 | [3110-score-of-a-string](https://github.com/dev-attri5/LeetCode-Problems/tree/master/3110-score-of-a-string) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/dev-attri5/LeetCode-Problems/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Bit Manipulation
 |  |
 | ------- |
