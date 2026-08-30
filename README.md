@@ -15,6 +15,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0162-find-peak-element](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
@@ -82,6 +83,7 @@
 | [0171-excel-sheet-column-number](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0204-count-primes) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0415-add-strings) |
 | [0628-maximum-product-of-three-numbers](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -128,6 +130,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0204-count-primes) |
 | [2094-finding-3-digit-even-numbers](https://github.com/dev-attri5/LeetCode-Problems/tree/master/2094-finding-3-digit-even-numbers) |
 | [2427-number-of-common-factors](https://github.com/dev-attri5/LeetCode-Problems/tree/master/2427-number-of-common-factors) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/dev-attri5/LeetCode-Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -242,6 +245,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0204-count-primes) |
 | [2427-number-of-common-factors](https://github.com/dev-attri5/LeetCode-Problems/tree/master/2427-number-of-common-factors) |
 ## Euclidean Algorithm
 |  |
@@ -290,4 +294,16 @@
 |  |
 | ------- |
 | [1095-find-in-mountain-array](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1095-find-in-mountain-array) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
