@@ -22,6 +22,7 @@
 | [0217-contains-duplicate](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0605-can-place-flowers) |
@@ -66,6 +67,7 @@
 | [0202-happy-number](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0645-set-mismatch](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -88,6 +90,7 @@
 | [0189-rotate-array](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0204-count-primes) |
+| [0268-missing-number](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0415-add-strings) |
 | [0628-maximum-product-of-three-numbers](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -126,6 +129,7 @@
 | [0088-merge-sorted-array](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0645-set-mismatch) |
@@ -194,6 +198,7 @@
 | [0069-sqrtx](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0278-first-bad-version) |
 | [0633-sum-of-square-numbers](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0633-sum-of-square-numbers) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -236,6 +241,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0067-add-binary) |
 | [0191-number-of-1-bits](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0645-set-mismatch](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0645-set-mismatch) |
 | [2595-number-of-even-and-odd-bits](https://github.com/dev-attri5/LeetCode-Problems/tree/master/2595-number-of-even-and-odd-bits) |
