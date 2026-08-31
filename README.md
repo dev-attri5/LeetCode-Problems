@@ -23,6 +23,7 @@
 | [0219-contains-duplicate-ii](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0485-max-consecutive-ones) |
@@ -117,6 +118,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0392-is-subsequence) |
 | [0633-sum-of-square-numbers](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0633-sum-of-square-numbers) |
@@ -202,6 +204,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0633-sum-of-square-numbers](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0633-sum-of-square-numbers) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -244,6 +247,7 @@
 | [0067-add-binary](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0067-add-binary) |
 | [0191-number-of-1-bits](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0645-set-mismatch](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0645-set-mismatch) |
 | [2595-number-of-even-and-odd-bits](https://github.com/dev-attri5/LeetCode-Problems/tree/master/2595-number-of-even-and-odd-bits) |
@@ -260,6 +264,7 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 ## Number Theory
 |  |
 | ------- |
@@ -326,4 +331,8 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0204-count-primes) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
