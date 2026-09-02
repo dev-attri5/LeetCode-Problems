@@ -60,6 +60,7 @@
 | [2094-finding-3-digit-even-numbers](https://github.com/dev-attri5/LeetCode-Problems/tree/master/2094-finding-3-digit-even-numbers) |
 | [2109-adding-spaces-to-a-string](https://github.com/dev-attri5/LeetCode-Problems/tree/master/2109-adding-spaces-to-a-string) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/dev-attri5/LeetCode-Problems/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
+| [2255-count-prefixes-of-a-given-string](https://github.com/dev-attri5/LeetCode-Problems/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2540-minimum-common-value](https://github.com/dev-attri5/LeetCode-Problems/tree/master/2540-minimum-common-value) |
 | [2733-neither-minimum-nor-maximum](https://github.com/dev-attri5/LeetCode-Problems/tree/master/2733-neither-minimum-nor-maximum) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/dev-attri5/LeetCode-Problems/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -262,6 +263,7 @@
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/dev-attri5/LeetCode-Problems/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2129-capitalize-the-title](https://github.com/dev-attri5/LeetCode-Problems/tree/master/2129-capitalize-the-title) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/dev-attri5/LeetCode-Problems/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [2255-count-prefixes-of-a-given-string](https://github.com/dev-attri5/LeetCode-Problems/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/dev-attri5/LeetCode-Problems/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/dev-attri5/LeetCode-Problems/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 | [3110-score-of-a-string](https://github.com/dev-attri5/LeetCode-Problems/tree/master/3110-score-of-a-string) |
