@@ -43,6 +43,7 @@
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -321,6 +322,7 @@
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0643-maximum-average-subarray-i) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/dev-attri5/LeetCode-Problems/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Queue
