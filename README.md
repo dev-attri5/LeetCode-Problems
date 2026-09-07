@@ -93,6 +93,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/dev-attri5/LeetCode-Problems/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/dev-attri5/LeetCode-Problems/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2094-finding-3-digit-even-numbers](https://github.com/dev-attri5/LeetCode-Problems/tree/master/2094-finding-3-digit-even-numbers) |
@@ -191,6 +192,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1512-number-of-good-pairs) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/dev-attri5/LeetCode-Problems/tree/master/2085-count-common-words-with-one-occurrence) |
 ## Greedy
 |  |
@@ -264,6 +266,7 @@
 | [1528-shuffle-string](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/dev-attri5/LeetCode-Problems/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/dev-attri5/LeetCode-Problems/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2109-adding-spaces-to-a-string](https://github.com/dev-attri5/LeetCode-Problems/tree/master/2109-adding-spaces-to-a-string) |
@@ -336,6 +339,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/dev-attri5/LeetCode-Problems/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Queue
 |  |
