@@ -86,6 +86,7 @@
 | [0219-contains-duplicate-ii](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
@@ -256,6 +257,7 @@
 | [0392-is-subsequence](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0392-is-subsequence) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0415-add-strings) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0520-detect-capital](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0520-detect-capital) |
 | [0917-reverse-only-letters](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0917-reverse-only-letters) |
 | [0925-long-pressed-name](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0925-long-pressed-name) |
@@ -336,6 +338,7 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
