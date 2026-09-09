@@ -130,6 +130,7 @@
 | [2806-account-balance-after-rounded-purchase](https://github.com/dev-attri5/LeetCode-Problems/tree/master/2806-account-balance-after-rounded-purchase) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/dev-attri5/LeetCode-Problems/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3870-count-commas-in-range](https://github.com/dev-attri5/LeetCode-Problems/tree/master/3870-count-commas-in-range) |
+| [3871-count-commas-in-range-ii](https://github.com/dev-attri5/LeetCode-Problems/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/dev-attri5/LeetCode-Problems/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/dev-attri5/LeetCode-Problems/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Two Pointers
