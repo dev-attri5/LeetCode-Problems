@@ -13,6 +13,7 @@
 | [0035-search-insert-position](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0041-first-missing-positive) |
 | [0066-plus-one](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0162-find-peak-element](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0162-find-peak-element) |
@@ -141,6 +142,7 @@
 | [0015-3sum](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0189-rotate-array) |
@@ -162,6 +164,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
@@ -396,5 +399,10 @@
 ## Quicksort
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0455-assign-cookies) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
