@@ -20,6 +20,7 @@ class Solution {
                     while(l < r && nums[r] == nums[r-1]) r--;
 
                     l++;
+                    r--;
                 }
                 else if(sum > 0){
                     r--;
