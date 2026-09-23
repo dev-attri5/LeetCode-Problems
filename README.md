@@ -48,6 +48,7 @@
 | [0922-sort-array-by-parity-ii](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0989-add-to-array-form-of-integer) |
+| [1051-height-checker](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1051-height-checker) |
 | [1095-find-in-mountain-array](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1095-find-in-mountain-array) |
 | [1122-relative-sort-array](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1122-relative-sort-array) |
 | [1207-unique-number-of-occurrences](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1207-unique-number-of-occurrences) |
@@ -196,6 +197,7 @@
 | [0905-sort-array-by-parity](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -223,6 +225,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
+| [1051-height-checker](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -437,6 +440,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0075-sort-colors) |
+| [1051-height-checker](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1122-relative-sort-array) |
 ## Geometry
 |  |
