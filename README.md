@@ -49,6 +49,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0989-add-to-array-form-of-integer) |
 | [1095-find-in-mountain-array](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1095-find-in-mountain-array) |
+| [1122-relative-sort-array](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1122-relative-sort-array) |
 | [1207-unique-number-of-occurrences](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1207-unique-number-of-occurrences) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -107,6 +108,7 @@
 | [0645-set-mismatch](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0645-set-mismatch) |
 | [0705-design-hashset](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0706-design-hashmap) |
+| [1122-relative-sort-array](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1122-relative-sort-array) |
 | [1207-unique-number-of-occurrences](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1207-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -194,6 +196,7 @@
 | [0905-sort-array-by-parity](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
+| [1122-relative-sort-array](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/dev-attri5/LeetCode-Problems/tree/master/2094-finding-3-digit-even-numbers) |
@@ -220,6 +223,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
+| [1122-relative-sort-array](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1512-number-of-good-pairs) |
@@ -428,10 +432,12 @@
 | ------- |
 | [0075-sort-colors](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0455-assign-cookies) |
+| [1122-relative-sort-array](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1122-relative-sort-array) |
 ## Bubble Sort
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0075-sort-colors) |
+| [1122-relative-sort-array](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1122-relative-sort-array) |
 ## Geometry
 |  |
 | ------- |
