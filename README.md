@@ -240,6 +240,7 @@
 | [0011-container-with-most-water](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0605-can-place-flowers) |
+| [0678-valid-parenthesis-string](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0678-valid-parenthesis-string) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 ## Prefix Sum
 |  |
@@ -306,6 +307,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0520-detect-capital](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0520-detect-capital) |
 | [0567-permutation-in-string](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0567-permutation-in-string) |
+| [0678-valid-parenthesis-string](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0917-reverse-only-letters](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0917-reverse-only-letters) |
 | [0925-long-pressed-name](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0925-long-pressed-name) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -368,11 +370,13 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0678-valid-parenthesis-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0678-valid-parenthesis-string) |
 ## Union-Find
 |  |
 | ------- |
@@ -381,6 +385,7 @@
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0392-is-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0678-valid-parenthesis-string) |
 ## Sliding Window
 |  |
 | ------- |
