@@ -134,6 +134,7 @@
 | [0189-rotate-array](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0415-add-strings) |
@@ -336,6 +337,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0067-add-binary) |
 | [0191-number-of-1-bits](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -345,6 +347,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0231-power-of-two) |
 | [2094-finding-3-digit-even-numbers](https://github.com/dev-attri5/LeetCode-Problems/tree/master/2094-finding-3-digit-even-numbers) |
 ## Newton's Method
 |  |
