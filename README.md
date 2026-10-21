@@ -127,6 +127,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0069-sqrtx) |
@@ -347,6 +348,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0231-power-of-two) |
 | [2094-finding-3-digit-even-numbers](https://github.com/dev-attri5/LeetCode-Problems/tree/master/2094-finding-3-digit-even-numbers) |
 ## Newton's Method
