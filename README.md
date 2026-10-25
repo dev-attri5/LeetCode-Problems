@@ -129,6 +129,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0069-sqrtx) |
@@ -401,6 +402,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0392-is-subsequence](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0509-fibonacci-number) |
@@ -493,4 +495,8 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0509-fibonacci-number) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
