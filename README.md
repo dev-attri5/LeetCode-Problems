@@ -46,6 +46,7 @@
 | [0747-largest-number-at-least-twice-of-others](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0905-sort-array-by-parity](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0905-sort-array-by-parity) |
+| [0912-sort-an-array](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0989-add-to-array-form-of-integer) |
@@ -203,6 +204,7 @@
 | [0645-set-mismatch](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0645-set-mismatch) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0905-sort-array-by-parity) |
+| [0912-sort-an-array](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1051-height-checker) |
@@ -234,6 +236,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0912-sort-an-array](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -265,10 +268,12 @@
 | [0169-majority-element](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0912-sort-an-array](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0912-sort-an-array](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Quickselect
 |  |
@@ -499,4 +504,16 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0062-unique-paths) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
