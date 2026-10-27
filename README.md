@@ -146,6 +146,7 @@
 | [0509-fibonacci-number](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0633-sum-of-square-numbers) |
+| [0728-self-dividing-numbers](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0728-self-dividing-numbers) |
 | [0836-rectangle-overlap](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0836-rectangle-overlap) |
 | [0989-add-to-array-form-of-integer](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0989-add-to-array-form-of-integer) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
