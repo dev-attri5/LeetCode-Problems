@@ -144,6 +144,7 @@
 | [0231-power-of-two](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0412-fizz-buzz](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -230,6 +231,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0415-add-strings) |
 | [1389-create-target-array-in-the-given-order](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1389-create-target-array-in-the-given-order) |
 | [1929-concatenation-of-array](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1929-concatenation-of-array) |
@@ -322,6 +324,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0392-is-subsequence) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0412-fizz-buzz](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0415-add-strings) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0520-detect-capital](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0520-detect-capital) |
