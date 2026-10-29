@@ -369,6 +369,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0050-powx-n) |
+| [0203-remove-linked-list-elements](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0509-fibonacci-number) |
 | [2094-finding-3-digit-even-numbers](https://github.com/dev-attri5/LeetCode-Problems/tree/master/2094-finding-3-digit-even-numbers) |
@@ -492,6 +493,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0203-remove-linked-list-elements) |
 | [0705-design-hashset](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0706-design-hashmap) |
 ## Design
