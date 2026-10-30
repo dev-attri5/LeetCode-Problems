@@ -368,6 +368,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0231-power-of-two) |
@@ -493,6 +494,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0203-remove-linked-list-elements) |
 | [0705-design-hashset](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0706-design-hashmap) |
