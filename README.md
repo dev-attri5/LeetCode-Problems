@@ -177,6 +177,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0392-is-subsequence) |
@@ -372,6 +373,7 @@
 | [0050-powx-n](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0509-fibonacci-number) |
 | [2094-finding-3-digit-even-numbers](https://github.com/dev-attri5/LeetCode-Problems/tree/master/2094-finding-3-digit-even-numbers) |
 ## Newton's Method
@@ -400,6 +402,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0020-valid-parentheses) |
+| [0234-palindrome-linked-list](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1021-remove-outermost-parentheses) |
@@ -496,6 +499,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0203-remove-linked-list-elements) |
+| [0234-palindrome-linked-list](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0705-design-hashset](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0706-design-hashmap) |
 ## Design
