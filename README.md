@@ -516,11 +516,13 @@
 | [0234-palindrome-linked-list](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0705-design-hashset](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0706-design-hashmap) |
+| [0707-design-linked-list](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0707-design-linked-list) |
 ## Design
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0706-design-hashmap) |
+| [0707-design-linked-list](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0707-design-linked-list) |
 ## Hash Function
 |  |
 | ------- |
