@@ -92,6 +92,7 @@
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/dev-attri5/LeetCode-Problems/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/dev-attri5/LeetCode-Problems/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/dev-attri5/LeetCode-Problems/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3364-minimum-positive-sum-subarray](https://github.com/dev-attri5/LeetCode-Problems/tree/master/3364-minimum-positive-sum-subarray) |
 | [3875-construct-uniform-parity-array-i](https://github.com/dev-attri5/LeetCode-Problems/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/dev-attri5/LeetCode-Problems/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/dev-attri5/LeetCode-Problems/tree/master/3903-smallest-stable-index-i) |
@@ -285,6 +286,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1732-find-the-highest-altitude](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1732-find-the-highest-altitude) |
+| [3364-minimum-positive-sum-subarray](https://github.com/dev-attri5/LeetCode-Problems/tree/master/3364-minimum-positive-sum-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/dev-attri5/LeetCode-Problems/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/dev-attri5/LeetCode-Problems/tree/master/3904-smallest-stable-index-ii) |
 ## Divide and Conquer
@@ -469,6 +471,7 @@
 | [1652-defuse-the-bomb](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1652-defuse-the-bomb) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/dev-attri5/LeetCode-Problems/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3364-minimum-positive-sum-subarray](https://github.com/dev-attri5/LeetCode-Problems/tree/master/3364-minimum-positive-sum-subarray) |
 ## Queue
 |  |
 | ------- |
