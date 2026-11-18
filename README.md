@@ -42,6 +42,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0645-set-mismatch) |
+| [0682-baseball-game](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0706-design-hashmap) |
@@ -243,6 +244,7 @@
 | [0067-add-binary](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0415-add-strings) |
+| [0682-baseball-game](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0682-baseball-game) |
 | [1389-create-target-array-in-the-given-order](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1389-create-target-array-in-the-given-order) |
 | [1929-concatenation-of-array](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1929-concatenation-of-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/dev-attri5/LeetCode-Problems/tree/master/2109-adding-spaces-to-a-string) |
@@ -420,6 +422,7 @@
 | [0020-valid-parentheses](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0678-valid-parenthesis-string) |
+| [0682-baseball-game](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0682-baseball-game) |
 | [0856-score-of-parentheses](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
