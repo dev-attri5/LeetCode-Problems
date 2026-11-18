@@ -4,8 +4,9 @@ class Solution {
     public String removeDuplicates(String s) {
         Stack<Character> stack = new Stack<>();
 
-        for (char ch : s.toCharArray()) {
-
+        for (int i = 0; i < s.length(); i++) {
+            char ch = s.charAt(i);
+            
             if (!stack.isEmpty() && stack.peek() == ch) {
                 stack.pop(); 
             } else {
@@ -13,12 +14,12 @@ class Solution {
             }
         }
 
-        StringBuilder result = new StringBuilder();
+        StringBuilder ans = new StringBuilder();
 
-        for (char ch : stack) {
-            result.append(ch);
+         while (!stack.isEmpty()) {
+            ans.append(stack.pop());
         }
 
-        return result.toString();
+        return ans.reverse().toString();
     }
 }
