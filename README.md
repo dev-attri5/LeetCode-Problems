@@ -247,6 +247,7 @@
 | [1929-concatenation-of-array](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1929-concatenation-of-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/dev-attri5/LeetCode-Problems/tree/master/2109-adding-spaces-to-a-string) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/dev-attri5/LeetCode-Problems/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [2390-removing-stars-from-a-string](https://github.com/dev-attri5/LeetCode-Problems/tree/master/2390-removing-stars-from-a-string) |
 ## Counting Sort
 |  |
 | ------- |
@@ -361,6 +362,7 @@
 | [2243-calculate-digit-sum-of-a-string](https://github.com/dev-attri5/LeetCode-Problems/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/dev-attri5/LeetCode-Problems/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/dev-attri5/LeetCode-Problems/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2390-removing-stars-from-a-string](https://github.com/dev-attri5/LeetCode-Problems/tree/master/2390-removing-stars-from-a-string) |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/dev-attri5/LeetCode-Problems/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 | [3110-score-of-a-string](https://github.com/dev-attri5/LeetCode-Problems/tree/master/3110-score-of-a-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/dev-attri5/LeetCode-Problems/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -421,6 +423,7 @@
 | [0856-score-of-parentheses](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [2390-removing-stars-from-a-string](https://github.com/dev-attri5/LeetCode-Problems/tree/master/2390-removing-stars-from-a-string) |
 ## Bracket Sequences
 |  |
 | ------- |
