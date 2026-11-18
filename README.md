@@ -72,6 +72,7 @@
 | [1470-shuffle-the-array](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1512-number-of-good-pairs) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1528-shuffle-string](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1528-shuffle-string) |
 | [1572-matrix-diagonal-sum](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1572-matrix-diagonal-sum) |
 | [1652-defuse-the-bomb](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1652-defuse-the-bomb) |
@@ -164,6 +165,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1512-number-of-good-pairs) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2235-add-two-integers](https://github.com/dev-attri5/LeetCode-Problems/tree/master/2235-add-two-integers) |
 | [2427-number-of-common-factors](https://github.com/dev-attri5/LeetCode-Problems/tree/master/2427-number-of-common-factors) |
 | [2806-account-balance-after-rounded-purchase](https://github.com/dev-attri5/LeetCode-Problems/tree/master/2806-account-balance-after-rounded-purchase) |
@@ -281,6 +283,7 @@
 | [0238-product-of-array-except-self](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1480-running-sum-of-1d-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1732-find-the-highest-altitude](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1732-find-the-highest-altitude) |
 | [3903-smallest-stable-index-i](https://github.com/dev-attri5/LeetCode-Problems/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/dev-attri5/LeetCode-Problems/tree/master/3904-smallest-stable-index-ii) |
@@ -451,6 +454,7 @@
 | [0509-fibonacci-number](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0678-valid-parenthesis-string) |
 | [1137-n-th-tribonacci-number](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1137-n-th-tribonacci-number) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Sliding Window
 |  |
 | ------- |
