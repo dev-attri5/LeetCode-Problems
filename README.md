@@ -86,6 +86,7 @@
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/dev-attri5/LeetCode-Problems/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/dev-attri5/LeetCode-Problems/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2540-minimum-common-value](https://github.com/dev-attri5/LeetCode-Problems/tree/master/2540-minimum-common-value) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/dev-attri5/LeetCode-Problems/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2733-neither-minimum-nor-maximum](https://github.com/dev-attri5/LeetCode-Problems/tree/master/2733-neither-minimum-nor-maximum) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/dev-attri5/LeetCode-Problems/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/dev-attri5/LeetCode-Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -233,6 +234,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/dev-attri5/LeetCode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/dev-attri5/LeetCode-Problems/tree/master/2094-finding-3-digit-even-numbers) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/dev-attri5/LeetCode-Problems/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2733-neither-minimum-nor-maximum](https://github.com/dev-attri5/LeetCode-Problems/tree/master/2733-neither-minimum-nor-maximum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/dev-attri5/LeetCode-Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Enumeration
@@ -277,6 +279,7 @@
 | [0605-can-place-flowers](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0605-can-place-flowers) |
 | [0678-valid-parenthesis-string](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0678-valid-parenthesis-string) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/dev-attri5/LeetCode-Problems/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Prefix Sum
 |  |
 | ------- |
