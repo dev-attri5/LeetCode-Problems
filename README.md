@@ -94,6 +94,7 @@
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/dev-attri5/LeetCode-Problems/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/dev-attri5/LeetCode-Problems/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3364-minimum-positive-sum-subarray](https://github.com/dev-attri5/LeetCode-Problems/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/dev-attri5/LeetCode-Problems/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3875-construct-uniform-parity-array-i](https://github.com/dev-attri5/LeetCode-Problems/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/dev-attri5/LeetCode-Problems/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/dev-attri5/LeetCode-Problems/tree/master/3903-smallest-stable-index-i) |
@@ -172,6 +173,7 @@
 | [2427-number-of-common-factors](https://github.com/dev-attri5/LeetCode-Problems/tree/master/2427-number-of-common-factors) |
 | [2806-account-balance-after-rounded-purchase](https://github.com/dev-attri5/LeetCode-Problems/tree/master/2806-account-balance-after-rounded-purchase) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/dev-attri5/LeetCode-Problems/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/dev-attri5/LeetCode-Problems/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3870-count-commas-in-range](https://github.com/dev-attri5/LeetCode-Problems/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/dev-attri5/LeetCode-Problems/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/dev-attri5/LeetCode-Problems/tree/master/3875-construct-uniform-parity-array-i) |
@@ -245,6 +247,7 @@
 | [2094-finding-3-digit-even-numbers](https://github.com/dev-attri5/LeetCode-Problems/tree/master/2094-finding-3-digit-even-numbers) |
 | [2427-number-of-common-factors](https://github.com/dev-attri5/LeetCode-Problems/tree/master/2427-number-of-common-factors) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/dev-attri5/LeetCode-Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/dev-attri5/LeetCode-Problems/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Simulation
 |  |
 | ------- |
@@ -421,6 +424,7 @@
 | ------- |
 | [0204-count-primes](https://github.com/dev-attri5/LeetCode-Problems/tree/master/0204-count-primes) |
 | [2427-number-of-common-factors](https://github.com/dev-attri5/LeetCode-Problems/tree/master/2427-number-of-common-factors) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/dev-attri5/LeetCode-Problems/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Euclidean Algorithm
 |  |
 | ------- |
@@ -479,6 +483,7 @@
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/dev-attri5/LeetCode-Problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/dev-attri5/LeetCode-Problems/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3364-minimum-positive-sum-subarray](https://github.com/dev-attri5/LeetCode-Problems/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/dev-attri5/LeetCode-Problems/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Queue
 |  |
 | ------- |
